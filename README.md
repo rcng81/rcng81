@@ -1,4 +1,3 @@
-### Hi there 👋
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rcng81.rcng81" />
 
 <h1 align ="center">
