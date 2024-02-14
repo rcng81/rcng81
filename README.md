@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on **sensitivity converter website**
 
-🌱 I’m currently learning **JavaScript, React, Python, and Java**
+🌱 I’m currently learning **Python, Java, and SQL**
 
 ⚡ Fun fact **I play collegiate esports in my free time**
 
