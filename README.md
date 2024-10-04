@@ -14,8 +14,6 @@
 
 🌱 I’m currently learning **JavaScript, React, Python, and Java**
 
-⚡ Fun fact **I play collegiate esports in my free time**
-
 </div>
 
 <div align="center"> 
