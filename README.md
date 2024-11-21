@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on **sensitivity converter website**
 
-🌱 I’m currently learning **JavaScript, React, Python, and Java**
+🌱 I’m currently learning **Python, Java, and SQL**
 
 </div>
 
