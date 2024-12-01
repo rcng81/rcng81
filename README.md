@@ -10,7 +10,9 @@
 
 <div align="center">
 
-🔭 I’m currently working on **sensitivity converter website**
+🎓 Computer Science Student at Pace University
+
+⭐ Passionate about Software Engineering, Data Science, and Data Analytics
 
 🌱 I’m currently learning **JavaScript, React, Python, and Java**
 
