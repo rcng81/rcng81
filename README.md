@@ -29,11 +29,13 @@
 
  <hr/>
 
- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+ <h2 align="center">⚒️ Skills and Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,flask,react" /><br>
+  <h3 align ="center"> Programming Languages </h3>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ 
 </div>
 
 <br/>
