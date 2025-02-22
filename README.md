@@ -69,6 +69,10 @@
       <br/><br/><br/>
 </div>
 
+| ![John Doe](https://via.placeholder.com/100) | ![Jane Smith](https://via.placeholder.com/100) |
+|---|---|
+| **John Doe** | **Jane Smith** |
+
 
 
 
