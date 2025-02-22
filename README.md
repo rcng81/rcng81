@@ -68,14 +68,3 @@
 </picture>
       <br/><br/><br/>
 </div>
-
-| ![Russell Ng](https://via.placeholder.com/100) | ![Joel Avendano](https://via.placeholder.com/100) | ![Myron Weng](https://via.placeholder.com/100) |
-|---|---|---|
-| **Russell Ng** | **Joel Avendano** | **Myron Weng** |
-
-
-
-
-
-
- 
