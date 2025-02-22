@@ -69,9 +69,9 @@
       <br/><br/><br/>
 </div>
 
-| ![John Doe](https://via.placeholder.com/100) | ![Jane Smith](https://via.placeholder.com/100) |
+| ![Russell Ng](https://via.placeholder.com/100) | ![Joel Avendano](https://via.placeholder.com/100) | ![Myron Weng](https://via.placeholder.com/100)
 |---|---|
-| **John Doe** | **Jane Smith** |
+| **Russell Ng** | **Joel Avendano** | **Myron Weng** |
 
 
 
