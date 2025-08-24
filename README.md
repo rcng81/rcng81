@@ -14,7 +14,7 @@
 
 ⭐ Passionate about Software Engineering, Data Science, and Data Analytics
 
-🌱 I’m currently learning **JavaScript, React, Python, and Java**
+🌱 I’m currently learning **Python, Java, and SQL**
 
 </div>
 
